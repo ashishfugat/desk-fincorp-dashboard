@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "category": "Rent",
+    "amount": 20000,
+    "date": "2025-08-05"
+  },
+  {
+    "id": 2,
+    "category": "Food",
+    "amount": 10000,
+    "date": "2025-08-10"
+  }
+]

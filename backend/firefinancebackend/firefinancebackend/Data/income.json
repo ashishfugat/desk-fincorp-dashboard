@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "source": "Salary",
+    "amount": 80000,
+    "date": "2025-08-01"
+  },
+  {
+    "id": 2,
+    "source": "Side Hustle",
+    "amount": 15000,
+    "date": "2025-08-15"
+  }
+]

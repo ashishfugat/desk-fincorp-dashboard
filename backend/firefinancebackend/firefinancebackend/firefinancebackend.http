@@ -1,0 +1,6 @@
+@firefinancebackend_HostAddress = http://localhost:5047
+
+GET {{firefinancebackend_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
